@@ -1,6 +1,6 @@
 # School_of_AI_Assignment_9
 
-output summary :
+# output summary :
 
            Conv2d-1           [-1, 16, 30, 30]             448
             Conv2d-2           [-1, 32, 28, 28]           4,640
@@ -31,13 +31,13 @@ output summary :
 Total params: 25,786
 Trainable params: 25,786
 Non-trainable params: 0
-----------------------------------------------------------------
+
 Input size (MB): 0.01
 Forward/backward pass size (MB): 0.55
 Params size (MB): 0.10
 Estimated Total Size (MB): 0.66
 
-Output training logs :
+# Output training logs :
 
 EPOCH: 1 (LR: 1.856635533445111e-05)
 Batch_id=97 Loss=2.62711 Accuracy=15.57%: 100%|██████████| 98/98 [00:20<00:00,  4.84it/s]
@@ -159,6 +159,6 @@ Batch_id=97 Loss=2.04934 Accuracy=25.92%: 100%|██████████| 9
 
 Test set: Average loss: 1.9082, Accuracy: 3257/10000 (32.57%)
 
-Training and validation loss curves :
+# Training and validation loss curves :
 
 <img width="701" alt="sc" src="https://user-images.githubusercontent.com/63030539/221403630-1bf0ea26-fc57-4ba6-b496-6d7f63017a4d.png">
